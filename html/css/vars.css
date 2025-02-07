@@ -1,0 +1,7 @@
+:root {
+	--white-color: #fff;
+	--gray-color: #aeb4a6;
+	--green-color: #D4E2DD;
+	--index: calc(1vw + 1vh);
+	--transition: ease-in-out;
+}
