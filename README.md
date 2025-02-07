@@ -1,0 +1,3 @@
+Projeto desenvolvido na UC9 sob a orientação do professor Allan Sobral. Criei uma plataforma para o cadastro das pesagens de resíduos do Senac SBC, utilizando PHP, HTML, CSS e MySQL. Na plataforma, o funcionário pode cadastrar resíduos, consultar os cadastros feitos, atualizar informações e excluir registros. O administrador tem as mesmas funcionalidades, além da possibilidade de cadastrar novos funcionários para o uso da plataforma, consultar dados dos funcionários, atualizar informações e excluir cadastros de funcionários.
+
+![image](https://github.com/user-attachments/assets/7dad1e6b-346e-452d-8c0d-9ad438ce04a0)
